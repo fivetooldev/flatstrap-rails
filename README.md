@@ -50,6 +50,10 @@ Flatstrap-rails follows Flatstrap's versioning system, with an extra patch numbe
 
 ## Credits
 [Bootstrap](http://twitter.github.com/bootstrap/) is built by Twitter.
+
 [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) is built by [Seyhun Akyürek](https://github.com/seyhunak).
-[Flatstrap] is built by [Little Spark](https://littlesparkvt.com/).
-[flatstrap-rails] is created an maintained by [Geoff Harcourt](http://github.com/geoffharcourt)
+
+[Flatstrap](http://littlesparkvt.com/flatstrap/index.html) is built by [Little Spark](https://littlesparkvt.com/).
+
+[flatstrap-rails](https://github.com/geoffharcourt/flatstrap-rails) is created an 
+maintained by [Geoff Harcourt](http://github.com/geoffharcourt)
