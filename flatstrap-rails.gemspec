@@ -1,6 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+
 require 'flatstrap/rails/version'
 
 Gem::Specification.new do |spec|
@@ -12,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Flatstrap gets rid of Twitter Bootstrap's rounded
     corners and gradients. Flatstrap-rails includes Flatstrap in the asset
     pipeline along with the Twitter-Bootstrap-Rails gem, which includes useful
-    helper methods and generators.}
+    helper methods and generators for Twitter Bootstrap.}
   spec.homepage      = "http://github.com/geoffharcourt/flatstrap-rails"
   spec.license       = "MIT"
 
@@ -21,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "twitter-bootstrap-rails"
+  spec.add_dependency "twitter-bootstrap-rails", "~> 2.2.6"
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
