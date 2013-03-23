@@ -1,3 +1,4 @@
+require "flatstrap/rails/engine"
 require "flatstrap/rails/version"
 
 module Flatstrap
