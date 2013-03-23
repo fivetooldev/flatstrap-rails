@@ -55,5 +55,5 @@ Flatstrap-rails follows Flatstrap's versioning system, with an extra patch numbe
 
 [Flatstrap](http://littlesparkvt.com/flatstrap/index.html) is built by [Little Spark](https://littlesparkvt.com/).
 
-[flatstrap-rails](https://github.com/geoffharcourt/flatstrap-rails) is created an 
+[flatstrap-rails](https://github.com/geoffharcourt/flatstrap-rails) is created and
 maintained by [Geoff Harcourt](http://github.com/geoffharcourt)
